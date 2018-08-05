@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location">LONDON</string>
+    <string name="date">WEDNESDAY, SEPT 25</string>
+    <string name="temprature">17</string>
+    <string name="windspeed">4 kph</string>
+</resources>
